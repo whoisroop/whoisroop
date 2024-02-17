@@ -1,16 +1,33 @@
-### Hi there 👋
+## Roop Kumar Lala: Aspiring AI/ML & Cloud Enthusiast
 
-<!--
-**whoisroop/whoisroop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driven Engineer | Deep Learning | Python | C++ | Cloud Technology
 
-Here are some ideas to get you started:
+## About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Highly motivated CS student at IIIT Surat, India, passionate about AI/ML & cloud technologies. Seeking opportunities to utilize skills and contribute to meaningful projects.
+
+## Highlights:
+
+- Designed & deployed Grafana dashboard for efficient service health monitoring at GE Digital.
+- Built Deep Learning pipeline achieving 70-75% accuracy in automated embryo assessment for MetaLoop Marketing.
+- Developed multiple personal projects:
+  - **INFANT CRY:** Deep learning model for baby cry classification.
+  - **DRUID:** AI-powered yoga pose analyzer with real-time feedback.
+  - **SPARK:** Web app connecting drivers & parking space owners.
+
+## Technical Skills:
+
+- 💻 **Languages:** Python, C++, C, Java, JavaScript
+- 🛠️ **Technologies:** AWS, Jenkins, Docker, Kubernetes, TensorFlow, Flask, Git/GitHub, MongoDB, MySQL
+- 🤖 **AI/ML:** Deep Learning, TensorFlow
+- ☁️ **Cloud:** AWS
+- 🔒 **Other:** Network security, Agile methodology
+
+## Connect with me:
+
+- 🌐 **Website:** [https://github.com/whoisroop](https://github.com/whoisroop)
+- ✉️ **Email:** roopkumar.work@gmail.com
+
+I'm always open to new challenges and collaborations! Let's connect and build something amazing together. 🌟
+
+![](https://komarev.com/ghpvc/?username=whoisroop&color=blue)
